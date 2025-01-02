@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## Skills
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js, Express
-- **Tools:** Git, Docker, Netlify
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Node.js, Express, NextJs
+- **Tools:** Git
 
 ## Contact Me
 - **Primary Account:** [sonu-dpu](https://github.com/sonu-dpu)
@@ -22,7 +22,7 @@ Feel free to reach out if you'd like to collaborate on a project or just want to
 
 ## GitHub Stats
 
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonu-dpu&show_icons=true&theme=radical)
+![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonu-dpu&show_icons=true&theme=blue)
 
 
 
