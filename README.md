@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Tools:** Git
 
 ## Contact Me
-- **Primary Account:** [sonu-dpu](https://github.com/sonu-dpu)
+- **Primary Account:** [sonu-shivcharan](https://github.com/sonu-shivcharan)
 - **LinkedIn:** [linkedin.com/in/sonushivcharan](https://www.linkedin.com/in/sonushivcharan/)
 - **Twitter:** [@sonushivcharan](https://twitter.com/sonushivcharan)
 
