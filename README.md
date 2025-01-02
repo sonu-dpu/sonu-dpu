@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Sonu Shivcharan! 👋
 
-<!--
-**sonu-dpu/sonu-dpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development and open-source contributions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Sonu Shivcharan
+- **Portfolio:** [sonushivcharan.netlify.app](https://sonushivcharan.netlify.app/)
+
+## Skills
+
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks:** React, Node.js, Express
+- **Tools:** Git, Docker, Netlify
+
+## Contact Me
+- **Primary Account:** [sonu-dpu](https://github.com/sonu-dpu)
+- **LinkedIn:** [linkedin.com/in/sonushivcharan](https://www.linkedin.com/in/sonushivcharan/)
+- **Twitter:** [@sonushivcharan](https://twitter.com/sonushivcharan)
+
+Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+
+## GitHub Stats
+
+![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonu-dpu&show_icons=true&theme=radical)
+
+
+
