@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## Skills
 
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, C++, Java
 - **Frameworks/Libraries:** React, Node.js, Express, NextJs
 - **Tools:** Git
 
